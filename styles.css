@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+
+h1 {
+  color: #DACC96;
+  font-size: 5.625rem;
+  font-family: 'Sacramento',cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #DACC96;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #DACC96;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+}
+
+p {
+  color: #FFE6BC;
+}
+
+hr {
+  border: dotted #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
+.top-container {
+  background-color: #886F6F;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0;
+
+}
+
+.middle-container {
+  margin: 0;
+  padding: 20px 0 20px;
+  background-color: #886F6F;
+
+}
+
+.bottom-container {
+  padding: 20px 0 20px;
+  background-color: #A0937D;
+}
+.contact-me {
+  background-color: #886F6F;
+  padding-bottom: 50px;
+
+}
+
+img:hover {
+  background-color: #DAD0C2;
+}
+.con-me {
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #665c50;
+  background-image: -webkit-linear-gradient(top, #665c50, #ebdaae);
+  background-image: -moz-linear-gradient(top, #665c50, #ebdaae);
+  background-image: -ms-linear-gradient(top, #665c50, #ebdaae);
+  background-image: -o-linear-gradient(top, #665c50, #ebdaae);
+  background-image: linear-gradient(to bottom, #665c50, #ebdaae);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #dbbaa4;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #e6b1cd;
+  background-image: -webkit-linear-gradient(top, #e6b1cd, #5c3259);
+  background-image: -moz-linear-gradient(top, #e6b1cd, #5c3259);
+  background-image: -ms-linear-gradient(top, #e6b1cd, #5c3259);
+  background-image: -o-linear-gradient(top, #e6b1cd, #5c3259);
+  background-image: linear-gradient(to bottom, #e6b1cd, #5c3259);
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.cori:hover {
+  color: #EAF6F6;
+}
+.cori {
+  padding: 20px 0;
+}
+
+.profile{
+  padding: 40px 0 40px;
+}
